@@ -32,7 +32,7 @@ switch (age){
   case 13:
     console.log("You are a teenager");
   case 13:
-    console.log("You are a teenager");  
+    console.log("You are a teenager");
     case 13:
       console.log("You are a teenager");
     case 14:
@@ -44,7 +44,7 @@ switch (age){
     case 17:
       console.log("You are a teenager");
     case 18:
-      console.log("You are a teenager");  
+      console.log("You are a teenager");
     case 19:
-      console.log("You are a teenager");      
+      console.log("You are a teenager");
 }
